@@ -1,0 +1,40 @@
+{
+  "name": "on-the-reg",
+  "version": "1.0.0",
+  "description": "'Cause we makin' regular expressions on the regular, people!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameswomack/node-on-the-reg.git"
+  },
+  "keywords": [
+    "regex",
+    "regular",
+    "expressions",
+    "regexp",
+    "string",
+    "conversion",
+    "normalization",
+    "utility",
+    "arguments",
+    "variadic"
+  ],
+  "author": "james@womack.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameswomack/node-on-the-reg/issues"
+  },
+  "homepage": "https://github.com/jameswomack/node-on-the-reg#readme",
+  "dependencies": {
+    "amp-is-array": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "1.0.0",
+    "esprima-fb": "15001.1.0-dev-harmony-fb",
+    "jscs": "2.0.0",
+    "mocha": "2.2.5"
+  }
+}
